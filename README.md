@@ -1,1 +1,1 @@
-# coin-simulator-
+# coin-simulator using python with tkinter gui
